@@ -1,0 +1,15 @@
+Provisional grades
+==================
+Question q1: 3/3
+Question q2: 3/3
+Question q3: 3/3
+Question q4: 0/3
+Question q5: 0/3
+Question q6: 0/3
+Question q7: 0/4
+Question q8: 0/3
+------------------
+Total: 9/25
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
